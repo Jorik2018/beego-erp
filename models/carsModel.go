@@ -1,7 +1,7 @@
 package models
 
 import (
-	requestStruct "crudDemo/requstStruct"
+	requestStruct "beego-erp/requstStruct"
 	"time"
 
 	"github.com/beego/beego/orm"

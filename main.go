@@ -1,8 +1,8 @@
 package main
 
 import (
-	"crudDemo/models"
-	_ "crudDemo/routers"
+	"beego-erp/models"
+	_ "beego-erp/routers"
 
 	_ "github.com/lib/pq"
 

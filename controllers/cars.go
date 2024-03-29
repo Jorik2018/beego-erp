@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"crudDemo/helpers"
-	"crudDemo/models"
-	requestStruct "crudDemo/requstStruct"
+	"beego-erp/helpers"
+	"beego-erp/models"
+	requestStruct "beego-erp/requstStruct"
 	"encoding/json"
 
 	beego "github.com/beego/beego/v2/server/web"

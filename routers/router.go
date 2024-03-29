@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"crudDemo/controllers"
+	"beego-erp/controllers"
 
 	beego "github.com/beego/beego/v2/server/web"
 )

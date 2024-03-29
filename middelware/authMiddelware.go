@@ -1,8 +1,8 @@
 package middelware
 
 import (
-	"crudDemo/models"
-	requestStruct "crudDemo/requstStruct"
+	"beego-erp/models"
+	requestStruct "beego-erp/requstStruct"
 	"fmt"
 	"net/http"
 	"time"
